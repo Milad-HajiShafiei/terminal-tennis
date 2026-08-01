@@ -30,5 +30,5 @@ You don't install a game engine. You compile a tennis match.
 
 ```bash
 git clone <this repo>
-cd ratatui-open
+cd terminal-tennis
 cargo run --release          # best in a terminal ≥ 100×30
