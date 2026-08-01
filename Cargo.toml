@@ -1,0 +1,11 @@
+[package]
+name = "terminal_tennis"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+ratatui = "0.30.2"
+
+[profile.release]
+opt-level = 3
