@@ -10,8 +10,8 @@
 
 <p align="center">
   <code>🦀 rust 1.75+</code> &nbsp;·&nbsp;
-  <code>🖥 ratatui 0.29</code> &nbsp;·&nbsp;
-  <code>⌨ crossterm 0.28</code> &nbsp;·&nbsp;
+  <code>🖥 ratatui 30.2</code> &nbsp;·&nbsp;
+  <code>⌨ crossterm 0.29</code> &nbsp;·&nbsp;
   <code>🎾 plays in your terminal</code> &nbsp;·&nbsp;
   <code>⚖ MIT</code>
 </p>
